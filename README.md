@@ -10,15 +10,15 @@ public Form1()
     CheckForIllegalCrossThreadCalls = false;
 }
 
-private void Download_OnDownloadLinkReceived(object sender, Aparat.AArgs e)
-{
-    richTextBox1.Text += e.Quality + " | " + e.DownloadLink + Environment.NewLine;
-}
-
 private void button1_Click(object sender, EventArgs e)
 {
     Aparat download = new Aparat(textBox1.Text);
     download.OnDownloadLinkReceived += Download_OnDownloadLinkReceived;
     download.GetVideoDownloadLink();
+}
+
+private void Download_OnDownloadLinkReceived(object sender, Aparat.AArgs e)
+{
+    richTextBox1.Text += e.Quality + " | " + e.DownloadLink + Environment.NewLine;
 }
 ```
