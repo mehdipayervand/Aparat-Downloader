@@ -1,0 +1,6 @@
+I:\Work\Aparat\Aparat-Downloader\AparatDownloader\bin\Release\AparatDownloader.pdb
+I:\Work\Aparat\Aparat-Downloader\AparatDownloader\obj\Release\AparatDownloader.csprojAssemblyReference.cache
+I:\Work\Aparat\Aparat-Downloader\AparatDownloader\obj\Release\AparatDownloader.csproj.CoreCompileInputs.cache
+I:\Work\Aparat\Aparat-Downloader\AparatDownloader\obj\Release\AparatDownloader.pdb
+I:\Work\Aparat\Aparat-Downloader\AparatDownloader\bin\Release\AparatDownloader.exe
+I:\Work\Aparat\Aparat-Downloader\AparatDownloader\obj\Release\AparatDownloader.exe

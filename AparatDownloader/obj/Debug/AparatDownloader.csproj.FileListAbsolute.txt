@@ -1,0 +1,5 @@
+I:\Work\Aparat\Aparat-Downloader\AparatDownloader\bin\Debug\AparatDownloader.exe
+I:\Work\Aparat\Aparat-Downloader\AparatDownloader\bin\Debug\AparatDownloader.pdb
+I:\Work\Aparat\Aparat-Downloader\AparatDownloader\obj\Debug\AparatDownloader.csproj.CoreCompileInputs.cache
+I:\Work\Aparat\Aparat-Downloader\AparatDownloader\obj\Debug\AparatDownloader.exe
+I:\Work\Aparat\Aparat-Downloader\AparatDownloader\obj\Debug\AparatDownloader.pdb
